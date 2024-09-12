@@ -1,0 +1,44 @@
+#main{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 150px;
+    background-color: rgba(98, 147, 187, 0.737);
+    #in{
+         padding: 10px 20px;
+         text-align: center;
+            
+    }
+    #register{
+        font-size: 50px;
+    }
+    #text{
+        font-size: large;
+        padding: 15PX;
+    }
+    #bar1{
+        height: 20px;
+    }
+    #bar2{
+        border: 2px rgb(0, 0, 0) solid;
+    }
+    #bar3{
+        border: 2px rgb(0, 0, 0) solid;
+    }
+    #bar4{
+        border: 2px rgb(0, 0, 0) solid;
+    }
+    #but1{
+        padding: 5px 30px;
+        border-radius: 5px;
+        background-color: green;
+        
+    }
+    #but2{
+        padding: 5px 50px;
+        
+        
+    }
+}

@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<!-- saved from url=(0075)https://pixfort.website/themeforest/landing/flatpack/1-normal/1-normal.html -->
+<html lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	
+	<title>Your Page Title Here :)</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="./web_files/base.css">
+	<link rel="stylesheet" href="./web_files/skeleton.css">
+    <link rel="stylesheet" href="./web_files/1-normal.css">
+	<link rel="stylesheet" href="./web_files/layout_1.css">
+  <link rel="stylesheet" href="./web_files/box.css">
+
+<link href="./web_files/animations.min.css" rel="stylesheet" type="text/css" media="all">
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="https://pixfort.website/themeforest/landing/flatpack/1-normal/images/favicon.ico">
+	<link rel="apple-touch-icon" href="https://pixfort.website/themeforest/landing/flatpack/1-normal/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://pixfort.website/themeforest/landing/flatpack/1-normal/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://pixfort.website/themeforest/landing/flatpack/1-normal/images/apple-touch-icon-114x114.png">
+
+    
+<script charset="utf-8" src="./web_files/button.856debeac157d9669cf51e73a08fbc93.js.download"></script><link type="text/css" rel="stylesheet" href="./web_files/css2"></head>
+
+<body>
+
+
+
+	<!-- Primary Page Layout
+	================================================== -->
+
+<!-- Part 1: #Header -->
+<div id="href_1"></div>
+<div class="pixfort_normal_1">
+  <div class="header_style">
+  	<div class="container">
+  		<div class="sixteen columns">
+  			<img src="./web_files/logo.png" alt="">
+
+               <a href="https://pixfort.website/themeforest/landing/flatpack/1-normal/1-normal.html#" class="slow_fade yt_button"></a>
+               <a href="https://pixfort.website/themeforest/landing/flatpack/1-normal/1-normal.html#" class="slow_fade twitter_button"></a>
+               <a href="https://pixfort.website/themeforest/landing/flatpack/1-normal/1-normal.html#" class="slow_fade facebook_button"></a>
+
+  			 <div class="htext_style">Stay connected</div>
+  		</div>
+  	</div><!-- container -->
+  </div>
+</div>
+
+<!-- Part 2: #Contact -->
+
+<div class="pixfort_normal_1">
+<div class="page_style">
+	<div class="container">
+		<div class="sixteen columns context_style">
+
+				<div class="title_style">
+					HTML BUNDLE IS HERE
+				</div>
+				<div class="subtitle_style">
+					More than 10 unique HTML templates in one bundle isn't that awesome with a lot of features and great design brought to you by PixFort.
+				</div>
+
+                <div class="email_subscribe">
+              	    <fieldset id="contact_form">
+                        
+                        <input type="email" name="email" id="email" placeholder="Enter Your Email" fdprocessedid="1ug2sc">
+                        <button class="subscribe_btn" id="subscribe_btn_1" fdprocessedid="nlu98">SUBSCRIBE NOW</button>
+                        <div id="result"></div>
+				            </fieldset>
+
+
+
+
+                    <!-- =====================
+                   MAILCHIMP FORM STARTS 
+                   ===================== -->
+                  
+                  <!-- <form class="subscription-form mailchimp form-inline wow fadeInRight animated" data-wow-offset="10" data-wow-duration="1.5s" role="form" id="contact_form">
+                    
+                    
+                    
+                    
+                    <input type="email" name="email" id="subscriber-email" placeholder="Your Email" class="form-control input-box">
+                    
+                    
+                    <button type="submit" id="subscribe-button" class="btn btn-default standard-button subscribe_btn pix_text">SUBSCRIBE NOW</button>
+                    
+                    
+                    <h4 class="subscription-success"></h4>
+                    <div class="subscription-error "></div>
+
+                  </form> -->
+                  
+                  <!-- /END MAILCHIMP FORM STARTS -->
+
+                </div>
+
+
+                <div class="note_st">*Note: Bundle ends in two weeks from now.</div>
+
+		</div>
+	</div><!-- container -->
+</div>
+</div>
+
+<!-- Part 3: #Features -->
+
+<div class="pixfort_normal_1">
+<div class="adv_st">
+	<div class="container">
+		<div class="sixteen columns">
+
+           <div class="one-third column onethird_style  alpha">
+		        <span class="circle slow_fade"><img src="./web_files/1.png" alt=""></span>
+                <div class="comment_style">
+    			    <span class="c1_style">+1500</span>
+                    <span class="c2_style">High quality video tutorials.</span>
+                </div>
+	       </div>
+
+           <div class="one-third column onethird_style alpha">
+		        <span class="circle slow_fade"><img src="./web_files/2.png" alt=""></span>
+                <div class="comment_style">
+    			    <span class="c1_style">+40</span>
+                    <span class="c2_style">Days Free trial demo subscribtion.</span>
+                </div>
+	       </div>
+
+           <div class="one-third column onethird_style alpha">
+		        <span class="circle slow_fade"><img src="./web_files/3.png" alt=""></span>
+                <div class="comment_style">
+    			    <span class="c1_style">+75</span>
+                    <span class="c2_style">New books from store.</span>
+                </div>
+	       </div>
+
+		</div>
+	</div><!-- container -->
+</div>
+</div>
+
+
+<!-- Part 4: #Services -->
+
+<div class="pixfort_normal_1">
+<div class="m6_style">
+	<div class="container">
+		<div class="sixteen columns">
+
+             <div class="eight columns  alpha">
+                <div class="gtext_style">
+    			    <p class="t1_style">The most amazing thing is here</p>
+                    <p class="t2_style">Our service is astonishingly thin and light.</p>
+                    <p class="t3_style">Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex commodo consequat Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                </div>
+             </div>
+
+             <div class="eight columns  omega">
+                <img src="./web_files/machine.png" class="img_style" alt="">
+             </div>
+
+       </div>
+	</div><!-- container -->
+</div>
+
+<div class="m6_style">
+	<div class="container">
+		<div class="sixteen columns">
+             <div class="eight columns  alpha">
+               <img src="./web_files/domains-that-never-sleep.png" class="img_style" alt="">
+             </div>
+
+             <div class="eight columns  omega">
+                <div class="gtext_style">
+    			    <p class="t1_style">Bring it to life again with us</p>
+                    <p class="t2_style">Our service is astonishingly thin and light.</p>
+                    <p class="t3_style">Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex commodo consequat Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                </div>
+             </div>
+		</div>
+	</div><!-- container -->
+</div>
+
+<div class="m6_style">
+	<div class="container">
+		<div class="sixteen columns">
+             <div class="eight columns  alpha">
+                <div class="gtext_style">
+    			    <p class="t1_style">Responsive ready wordpress</p>
+                    <p class="t2_style">Our service is astonishingly thin and light.</p>
+                    <p class="t3_style">Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex commodo consequat Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                </div>
+             </div>
+
+             <div class="eight columns  omega">
+                <img src="./web_files/website-builder.png" class="img_style" alt="">
+             </div>
+		</div>
+	</div><!-- container -->
+</div>
+</div>
+
+<!-- Part 5: #Clients -->
+
+<div class="pixfort_normal_1">
+<div class="logos_style">
+	<div class="container">
+		<div class="sixteen columns pad_bot">
+            <div class="titres">
+                <span class="L1_style">Great people trusted our services</span><br>
+                <span class="L2_style">great words from great people</span>
+            </div>
+
+            <div class="four columns logos_st alpha">  <img src="./web_files/logo_1.png" alt=""> </div>
+            <div class="four columns logos_st">        <img src="./web_files/logo_2.png" alt=""> </div>
+            <div class="four columns logos_st">        <img src="./web_files/logo_3.png" alt=""> </div>
+            <div class="four columns logos_st omega">  <img src="./web_files/logo_4.png" alt=""> </div>
+		</div>
+	</div><!-- container -->
+</div>
+</div>
+
+<!-- Part 6: #Testimonials -->
+
+<div class="pixfort_normal_1">
+<div class="envato_unbounce">
+	<div class="container">
+
+            <h3 class="L1_style">What our awesome clients say</h3>
+            <h5 class="L2_style">great words from great people</h5>
+
+            <div class="eight columns stbox alpha">
+               <div class="box_1">
+                   <div class="b_style">
+                        <img src="./web_files/envato-logo.png" class="logo_style" alt="">
+                   </div>
+                   <div class="txt_style">
+                        <p class="txt">Im a web designer, you guys are very inspiring I wish to see more work from maybe more freebies.</p>
+                        <span class="stars_span">
+                          <span><img src="./web_files/stars.original.png" alt="">  </span>
+                          <span class="env_st">via Envato.com</span>
+                        </span>
+                   </div>
+               </div>
+            </div>
+
+            <div class="eight columns stbox omega">
+                <div class="box_2">
+                   <div class="b_style">
+                        <img src="./web_files/unboune-logo.png" class="logo_style" alt="">
+                   </div>
+
+                   <div class="txt_style">
+                        <p class="txt">Great service with fast and relible support The design work and detail put into themes are great.</p>
+                        <span class="stars_span">
+                          <span><img src="./web_files/stars.original.png" alt="">  </span>
+                          <span class="env_st">via pixfort.com</span>
+                        </span>
+                   </div>
+                </div>
+            </div>
+
+
+	</div><!-- container -->
+</div>
+</div>
+
+<!-- Part 7: #Contact -->
+
+<div class="pixfort_normal_1">
+<div class="m6_style">
+	<div class="container">
+		<div class="sixteen columns">
+             <div class="eight columns center_txt alpha">
+                <div class="left_text_style">
+    			    <p class="t1_style">Are you ready for this?</p>
+                    <p class="left_style">More than 10,000 apps are waiting for you with awesome features and prices that will be great for you, join us now by entering you email and subscribe us now, wow.</p>
+
+                    <a href="https://pixfort.website/themeforest/landing/flatpack/1-normal/1-normal.html#href_1" class="button_style">
+                    <div class="slow_fade submit_st">
+        					    SUBSCRIBE NOW
+        				    </div>
+                    </a>
+                </div>
+             </div>
+
+             <div class="eight columns alpha">
+               <img src="./web_files/speed-and-security.png" class="img_style" alt="">
+             </div>
+		</div>
+	</div><!-- container -->
+</div>
+</div>
+
+
+<!-- Part 8: #Footer -->
+
+<div class="pixfort_normal_1">
+<div class="foot_st">
+	<div class="container ">
+		<div class="seven columns alpha ">
+            <span class="rights_st"> All rights reserved Copyright © 2014 FLATPACK by
+                    <span class="pixfort_st">PixFort</span>
+            </span>
+		</div>
+
+
+        <div class="nine columns omega ">
+        <div class="socbuttons">
+            <div class="likes_st">Your likes &amp; share makes us happy!</div>
+            <div class="soc_icons">
+                      <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position: static; visibility: visible; width: 65px; height: 20px;" title="X Post Button" src="./web_files/tweet_button.2f70fb173b9000da126c79afe2098f02.en.html"></iframe>
+                      &nbsp;&nbsp;&nbsp;
+                      <!-- Place this tag where you want the +1 button to render. -->
+                      <!-- <span class="confirm_gp">
+                                          <div class="g-plusone " data-size="medium" data-annotation="none"></div>
+                                      </span>
+
+                       <!== Place this tag after the last +1 button tag. -->
+                       <iframe src="./web_files/like.html" class="c1">
+                      </iframe>
+            </div>
+
+        </div>
+	    </div><!-- container -->
+    </div>
+</div>
+</div>
+
+
+
+
+
+
+<div id="hidden_pix_1" class="confirm_page confirm_page_1">
+  <div class="pixfort_normal_1">
+  <div class="confirm_logo"><span class="conf_img"><img src="./web_files/confirm1.png" alt=""></span></div>
+  <div class="confirm_header">THANK YOU FOR SUBSCRIPTION</div>
+  <div class="confirm_text">
+    Our service is astonishingly thin and light.
+  </div>
+
+  <div class="confirm_social">
+    <div class="confirm_social_box">
+          <iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="X Post Button" src="./web_files/tweet_button.2f70fb173b9000da126c79afe2098f02(1).en.html" style="position: static; visibility: visible; width: 1px; height: 1px;"></iframe>
+
+
+
+<!-- Place this tag where you want the +1 button to render. -->
+<span class="confirm_gp">
+  <div id="___plusone_0" style="position: absolute; width: 450px; left: -10000px;"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-10000px;width:450px;margin:0px;border-style:none" tabindex="0" vspace="0" width="100%" id="I0_1725466856223" name="I0_1725466856223" src="./web_files/fastbutton.html" data-gapiattached="true"></iframe></div><span class="g-plusone " data-size="medium" data-annotation="none" data-gapiscan="true" data-onload="true" data-gapistub="true"></span>
+</span>
+
+
+<!-- Place this tag after the last +1 button tag. -->
+
+
+
+<iframe src="./web_files/like(1).html" style="border:none; overflow:hidden; height:20px;width:50px;"></iframe>
+
+        </div>
+    </div>
+
+
+</div>
+
+</div>
+
+
+<!-- JavaScript
+  ================================================== -->
+
+<script src="./web_files/cb=gapi.loaded_1" async=""></script><script src="./web_files/cb=gapi(1).loaded_0" async=""></script><script type="text/javascript" async="" src="./web_files/platform.js.download" gapi_processed="true"></script><script id="twitter-wjs" src="./web_files/widgets.js.download"></script><script src="./web_files/jquery-1.7.2.min.js.download" type="text/javascript"></script> <!-- jQuery -->
+<script src="./web_files/jquery.easing.1.3.js.download" type="text/javascript"></script> <!-- jQuery easing -->
+<script type="text/javascript" src="./web_files/jquery.common.min.js.download"></script>
+<script src="./web_files/custom.js.download" type="text/javascript"></script>
+<script src="./web_files/custom2.js.download" type="text/javascript"></script>
+
+  <script src="./web_files/smoothscroll.min.js.download" type="text/javascript"></script>
+  <script src="./web_files/appear.min.js.download" type="text/javascript"></script>
+  <script src="./web_files/animations.min.js.download" type="text/javascript"></script>
+
+
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+  </script> <script type="text/javascript">
+(function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+  </script>
+
+<!-- End Document
+================================================== -->
+
+<iframe scrolling="no" frameborder="0" allowtransparency="true" src="./web_files/widget_iframe.2f70fb173b9000da126c79afe2098f02.html" title="Twitter settings iframe" style="display: none;"></iframe><span id="PING_IFRAME_FORM_DETECTION" style="display: none;"></span><iframe name="oauth2relay506320433" id="oauth2relay506320433" src="./web_files/postmessageRelay.html" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe" src="./web_files/saved_resource.html"></iframe><span id="PING_CONTENT_DLS_POPUP" style="display: none;"></span><div style="background-color: transparent; border: none; bottom: 15px; display: block; margin: 0px; opacity: 1; padding: 0px; position: fixed; right: 15px; z-index: 2147483647;"><template shadowrootmode="closed"><style>/*!
+ * 
+ *     MCAFEE RESTRICTED CONFIDENTIAL
+ *     Copyright (c) 2024 McAfee, LLC
+ *
+ *     The source code contained or described herein and all documents related
+ *     to the source code ("Material") are owned by McAfee or its
+ *     suppliers or licensors. Title to the Material remains with McAfee
+ *     or its suppliers and licensors. The Material contains trade
+ *     secrets and proprietary and confidential information of McAfee or its
+ *     suppliers and licensors. The Material is protected by worldwide copyright
+ *     and trade secret laws and treaty provisions. No part of the Material may
+ *     be used, copied, reproduced, modified, published, uploaded, posted,
+ *     transmitted, distributed, or disclosed in any way without McAfee's prior
+ *     express written permission.
+ *
+ *     No license under any patent, copyright, trade secret or other intellectual
+ *     property right is granted to or conferred upon you by disclosure or
+ *     delivery of the Materials, either expressly, by implication, inducement,
+ *     estoppel or otherwise. Any license under such intellectual property rights
+ *     must be expressed and approved by McAfee in writing.
+ *
+ */
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,400;0,500;0,600;0,800;1,400;1,500;1,600;1,800&display=swap);
+*{border:0;box-sizing:border-box;font:inherit;font-family:"mcafeeOpenSans","Poppins",Helvetica,Arial,Arial,Helvetica,sans-serif;font-size:100%;margin:0;padding:0;vertical-align:baseline;outline:none}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}html,body{background-color:#f5f6fa;font-family:"Poppins",Helvetica,Arial,"mcafeeOpenSans",Arial,Helvetica,sans-serif;line-height:1;height:100%;width:100%}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:"";content:none}table{border-collapse:collapse;border-spacing:0}b{font-weight:bold}img{display:block}.dls__container{align-items:center;display:flex;margin:0 auto;margin-top:50px;position:relative}.dls__popup__expanded{align-items:center;overflow:hidden;border-radius:100px;cursor:pointer;display:flex;left:0;padding:15px;position:absolute;height:95px;width:383px;background-color:#fff;transition:all .3s ease-in-out}.dls__popup__expanded .dls__icon{height:65px;width:73px}.content{margin-left:12px}.content .content__images{display:flex;align-items:center;width:250px}.content .content__images .seperator__line{margin-left:5px;margin-right:10px}.content .content__images #dls_close_icon{cursor:pointer;margin-left:auto;margin-right:0px}.content p{font-family:"Poppins",Arial,Helvetica,sans-serif;font-weight:"400";font-size:14px;line-height:20px;margin-top:8px;color:#4258ff;width:250px;cursor:pointer}.shield{overflow:hidden;box-shadow:0px 2px 4px 0px rgba(33,41,52,.12),0px -1px 2px 0px rgba(0,0,0,.08);align-items:center;border-radius:100px;bottom:0;display:flex;height:95px;justify-content:center;position:absolute;right:0;width:383px;transition:all .3s ease-in-out}.shield__circle{display:flex;justify-content:center;align-items:center;width:55px;height:55px;background-color:#c01818;transition:all .6s ease-in-out .2s;z-index:1;opacity:0}
+
+/*# sourceMappingURL=../sourceMap/chrome/css/download_scan_popup.css.map*/</style><div class="dls__container">
+  <div class="shield" style="background: transparent; opacity: 0.1; display: none;">
+    <div class="shield__circle" style="opacity: 1;">
+      <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/mcafee_logo_white.svg?secret=waqfiv" x-mcsrc="" id="dls_ballon_icon" x-mcsrcparsed="true">
+    </div>
+    <div class="dls__popup__expanded" style="opacity: 0;">
+      <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/download_scan_icon.svg?secret=waqfiv" x-mcsrc="" class="dls__icon" x-mcsrcparsed="true">
+      <div class="content">
+        <div class="content__images">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/mcafee_logo_red.svg?secret=waqfiv" x-mcsrc="" id="dls_mcafee_logo" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/seperator_line.svg?secret=waqfiv" x-mcsrc="" class="seperator__line" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/webadvisor.svg?secret=waqfiv" x-mcsrc="" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/close-outline.svg?secret=waqfiv" x-mcsrc="" id="dls_close_icon" x-mcsrcparsed="true">
+        </div>
+        <p id="download_scan_popup_expanded_descriptions">Your download's being scanned. We'll let you know if there's an issue.</p>
+      </div>
+    </div>
+  </div>
+</div><style>/*!
+ * 
+ *     MCAFEE RESTRICTED CONFIDENTIAL
+ *     Copyright (c) 2024 McAfee, LLC
+ *
+ *     The source code contained or described herein and all documents related
+ *     to the source code ("Material") are owned by McAfee or its
+ *     suppliers or licensors. Title to the Material remains with McAfee
+ *     or its suppliers and licensors. The Material contains trade
+ *     secrets and proprietary and confidential information of McAfee or its
+ *     suppliers and licensors. The Material is protected by worldwide copyright
+ *     and trade secret laws and treaty provisions. No part of the Material may
+ *     be used, copied, reproduced, modified, published, uploaded, posted,
+ *     transmitted, distributed, or disclosed in any way without McAfee's prior
+ *     express written permission.
+ *
+ *     No license under any patent, copyright, trade secret or other intellectual
+ *     property right is granted to or conferred upon you by disclosure or
+ *     delivery of the Materials, either expressly, by implication, inducement,
+ *     estoppel or otherwise. Any license under such intellectual property rights
+ *     must be expressed and approved by McAfee in writing.
+ *
+ */
+.mc-interactive-balloon{position:absolute;right:-50px;bottom:8px;box-shadow:rgba(0,0,0,.12) 0px 0px 10px;height:40px;width:40px;background:#1671ee;border-radius:20px;display:flex;justify-content:center;align-items:center}
+
+/*# sourceMappingURL=../sourceMap/chrome/css/interactive_balloon.css.map*/</style></template></div></body></html>
